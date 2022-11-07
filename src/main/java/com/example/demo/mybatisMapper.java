@@ -1,2 +1,4 @@
-package com.example.demo;public interface mybatisMapper {
+package com.example.demo;
+
+public interface mybatisMapper {
 }
