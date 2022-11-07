@@ -16,7 +16,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	//MyBatis dependency
-	compile 'org.mybatis:mybatis:3.5.11'
+	implementation 'org.mybatis:mybatis:3.5.11'
 }
 
 tasks.named('test') {
